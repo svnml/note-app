@@ -1,4 +1,4 @@
-#!/home/dsrdr/code/projects/portfolio_django_react/env/bin/python3
+#!/home/dsrdr/code/projects/note-app/env/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

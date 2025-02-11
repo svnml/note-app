@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/dsrdr/code/projects/portfolio_django_react/env
+set -gx VIRTUAL_ENV /home/dsrdr/code/projects/note-app/env
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
